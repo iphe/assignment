@@ -1,5 +1,6 @@
  #50 examples of javscript variable
-1.\ let name = "John";
+ 
+ let name = "John";
 2.\ let age = 25;
 3.\ let isMarried = false;
 4.\ let city = "New York";
