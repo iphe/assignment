@@ -1,17 +1,17 @@
  #50 examples of javscript variable
  
- let name = "John";
-2.\ let age = 25;
-3.\ let isMarried = false;
-4.\ let city = "New York";
-5.\let user;
-6.\ let item = "Sixth item"; 
-7.\let total; 
-8.\ let items;
-9.\let message; 
-10.\ let Result;
-11.\let fruits = ["apple", "banana", "cherry"];
-12.\ let numbers = [1, 2, 3, 4, 5];
+1. let name = "John";
+2. let age = 25;
+3. let isMarried = false;
+4. let city = "New York";
+5. let user;
+6. let item = "Sixth item";
+7. let total;
+8. let items;
+9. let message; 
+10. let Result;
+11. let fruits = ["apple", "banana", "cherry"];
+12. let numbers = [1, 2, 3, 4, 5];
 13.\ let colors = ["red", "green", "blue"];
 14.\ let temperatures = [30.5, 25.6, 27.8];
 15.\ let tasks = [];
