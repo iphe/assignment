@@ -51,7 +51,7 @@
 49. let person = { name: "Ola", age: 50 };
 50. let fruit = "Lemon";
 
-#50 examples of boolean
+### 50 examples of boolean
 1. let isOnline = true;
 2. let hasAccess = false;
 3. let isMarried = false;
@@ -102,9 +102,60 @@
 48. let isDirty = false;
 49. let isDirty = false;
 50. let isDark = false;
+    
+### 50 examples of javascript numbers
+1. let x = 5;
+2. const y = 10;
+3. let result = 20 - 5;
+4. let product = 4 * 3;
+5. let quotient = 10 / 2;
+6. let x = 6;
+7. let quotient = 12 / 2;
+8. const y = 20;
+9. let result = 30 - 5;
+10. let product = 6 * 3;
+11. let quotient = 10 / 2;
+12. let x = 7;
+13. const y = 30;
+14. let result = 30 - 5;
+15. let product = 6 * 2;
+16. let quotient = 12 / 2;
+17. let x = 8;
+18. let quotient = 14 / 2;
+19. const y = 40;
+20. let result = 30 - 5;
+21. let product = 5 * 3;
+22. let quotient = 16 / 2;
+23. let x = 9;
+24. const y = 50;
+25. let result = 40 - 5;
+26. let product = 6 * 3;
+27. let quotient = 18 / 2;
+28. let x = 10;
+29. const y = 60;
+30. let result = 50 - 5;
+31. let product = 8 * 2;
+32. let quotient = 20 / 2;
+33. let x = 11;
+34. const y = 70;
+35. let result = 60 - 5;
+36. let product = 10 * 2;
+37. let quotient = 22 / 2;
+38. let x = 12;
+39. const y = 80;
+40. let result = 70 - 5;
+41. let product = 12 * 2;
+42. let quotient = 24 / 2;
+43. let x = 14;
+44. const y = 90;
+45. let result = 80 - 5;
+46. let product = 14 * 2;
+47. let quotient = 26 / 2;
+48.  let x = 16;
+49.  const y = 12;
+50.  let result = 90 - 5;
 
 ### 10 examples of Bigint
-
 1. let bigNumber1 = 123456789012345678901234567890n;
 2. let bigNumber2 = BigInt(987654321098765432109876543210);
 3. let factorial20 = 2432902008176640000n;
